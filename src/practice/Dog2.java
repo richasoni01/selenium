@@ -6,6 +6,7 @@ public class Dog2 {
 		// TODO Auto-generated method stub
 Dog2 d=new Dog2();
 d.strSplit();
+//dog
 	}
 public String strSplit(){
 	String dmo= "we are jolly teu-you798";
