@@ -9,7 +9,7 @@ d.strSplit();
 //dog
 	}
 public String strSplit(){
-	String dmo= "we are jolly teu-you798";
+	String dmo= "we are hhhhjolly teu-you798";
 	
 	String h=dmo.replaceAll("-","\n");
 	System.out.println(h);
