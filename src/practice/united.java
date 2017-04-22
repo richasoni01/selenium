@@ -8,7 +8,7 @@ Dog2 d=new Dog2();
 d.strSplit();
 	}
 public String strSplit(){
-	String dmo= "we are -you798";
+	String dmo= "we are united fully";
 	
 	String h=dmo.replaceAll("-","\n");
 	System.out.println(h);
