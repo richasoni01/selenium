@@ -8,7 +8,8 @@ Dog2 d=new Dog2();
 d.strSplit();
 	}
 public String strSplit(){
-	String dmo= "we rajamchi fully";
+
+	String dmo= "we rajamchi vaccum cleaner fully";
 	
 	String h=dmo.replaceAll("-","\n");
 	System.out.println(h);
