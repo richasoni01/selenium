@@ -9,7 +9,7 @@ d.strSplit();
 	}
 public String strSplit(){
 
-	String dmo= "we rajamchi vaccum cleaner fully";
+	String dmo= "the ring";
 	
 	String h=dmo.replaceAll("-","\n");
 	System.out.println(h);
