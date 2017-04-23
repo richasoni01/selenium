@@ -7,7 +7,7 @@ public class my {
 Dog2 d=new Dog2();
 d.strSplit();
 	}
-public String strSplit(){
+public String learnmaster4(){
 
 	String dmo= "the ring";
 	
