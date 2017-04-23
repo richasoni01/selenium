@@ -8,7 +8,7 @@ Dog2 d=new Dog2();
 d.strSplit();
 	}
 public String strSplit(){
-	String dmo= "we are gaurav kt from git soni";
+	String dmo= "we are gaurav posotive kt from git soni/vgvhjghg";
 	
 	String h=dmo.replaceAll("-","\n");
 	System.out.println(h);
